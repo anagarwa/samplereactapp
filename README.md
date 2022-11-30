@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Create a Page using https://github.com/gitname/react-gh-pages
+
+
 ## Available Scripts
 
 In the project directory, you can run:
